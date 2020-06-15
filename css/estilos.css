@@ -253,7 +253,7 @@ header .textos h3 {
 
 .main .mapa iframe {
   width: 100%;
-  max-width: 600px;
+  max-width: 100%;
 }
 
 /*footer*/
