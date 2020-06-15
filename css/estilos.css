@@ -306,7 +306,7 @@ footer .copyright {
     width: 100%;
     top: -50px;
     transform: translate(0px, 0);
-    color: red;
+    
   }
 
   .main .menu {
@@ -346,10 +346,5 @@ footer .copyright {
     width: 100%;
     text-align: center;
   }
-  main .acerca-de article {
-    position: relative;
-    width: 100%;
-    top: -50px;
-    transform: translate(0px, 0);
-  }
+
 }
