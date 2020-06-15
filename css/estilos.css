@@ -301,11 +301,12 @@ footer .copyright {
     position: relative;
   }
 
-  main .acerca-de article {
+  .main .acerca-de article {
     position: relative;
     width: 100%;
     top: -50px;
     transform: translate(0px, 0);
+    color: red;
   }
 
   .main .menu {
