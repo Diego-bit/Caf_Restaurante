@@ -9,7 +9,7 @@ $(document).ready(function(){
                 'transform':'translate(0px,' + scroll / 3 +'%)'
             });
             $('.acerca-de article').css({
-                'transform':'translate(0px, -' + scroll / 4 +'%)'
+                'transform':'translate(0px, -' + scroll / 15 +'%)'
             });
             
         }
