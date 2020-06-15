@@ -305,7 +305,7 @@ footer .copyright {
     position: relative;
     width: 100%;
     top: -50px;
-    transform: translate(0px, 0px);
+    transform: translate(0px, 0);
   }
 
   .main .menu {
@@ -344,5 +344,11 @@ footer .copyright {
   .main .ubicacion .horarios {
     width: 100%;
     text-align: center;
+  }
+  main .acerca-de article {
+    position: relative;
+    width: 100%;
+    top: -50px;
+    transform: translate(0px, 0);
   }
 }
